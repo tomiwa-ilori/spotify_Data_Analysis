@@ -15,18 +15,6 @@ This Python module, spotifyData.py, is a comprehensive tool for analyzing your S
 ### Prerequisites
 
 Ensure you have the following Python libraries tuned and ready for the performance:
-
-- numpy
-- pandas
-- seaborn
-- spotipy
-- matplotlib
-- collections
-
-### Installation
-
-Direct the installation of dependencies with a conductor's precision using pip:
-
 - numpy
 - pandas
 - seaborn
